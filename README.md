@@ -11,10 +11,9 @@
 
 ### 1.小程序版比赛计分器
 
-![最终效果图](https://upload-images.jianshu.io/upload_images/4966588-778a81ad10967778.gif?imageMogr2/auto-orient/strip)
-
 ### 比赛计分器-最终效果图
 
+![最终效果图](https://upload-images.jianshu.io/upload_images/4966588-778a81ad10967778.gif?imageMogr2/auto-orient/strip)
 
 ### 比赛计分器-扫码体验
 ![扫码体验](https://upload-images.jianshu.io/upload_images/4966588-442ffcaf83a4ec0e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
