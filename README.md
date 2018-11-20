@@ -18,8 +18,7 @@
 ### 比赛计分器-扫码体验
 ![扫码体验](https://upload-images.jianshu.io/upload_images/4966588-442ffcaf83a4ec0e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
-[原文链接](https://www.jianshu.com/p/f344784175ce)
+[原文链接](https://www.jianshu.com/p/07c5870cab0a)
 
 ### 2.小程序版日播天气
 
@@ -31,4 +30,4 @@
 
 ![扫码体验](https://upload-images.jianshu.io/upload_images/4966588-4ece89c59aae8ec5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-[原文链接](https://www.jianshu.com/p/07c5870cab0a)
+[原文链接](https://www.jianshu.com/p/f344784175ce)
