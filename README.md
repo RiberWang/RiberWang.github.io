@@ -11,13 +11,14 @@
 
 ### 1.小程序版比赛计分器
 
-### 最终效果图
+![最终效果图](https://upload-images.jianshu.io/upload_images/4966588-778a81ad10967778.gif?imageMogr2/auto-orient/strip)
 
-![最终效果图](https://upload-images.jianshu.io/upload_images/4966588-7d0990103cf014db.gif?imageMogr2/auto-orient/strip)
+### 比赛计分器-最终效果图
 
-### 扫码体验
 
-![扫码体验](https://upload-images.jianshu.io/upload_images/4966588-4ece89c59aae8ec5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### 比赛计分器-扫码体验
+![扫码体验](https://upload-images.jianshu.io/upload_images/4966588-442ffcaf83a4ec0e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 [原文链接](https://www.jianshu.com/p/f344784175ce)
 
@@ -25,10 +26,11 @@
 
 ### 最终效果图
 
-![最终效果图](https://upload-images.jianshu.io/upload_images/4966588-778a81ad10967778.gif?imageMogr2/auto-orient/strip)
+![最终效果图](https://upload-images.jianshu.io/upload_images/4966588-7d0990103cf014db.gif?imageMogr2/auto-orient/strip)
+
 
 ### 扫码体验
 
-![扫码体验](https://upload-images.jianshu.io/upload_images/4966588-442ffcaf83a4ec0e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![扫码体验](https://upload-images.jianshu.io/upload_images/4966588-4ece89c59aae8ec5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 [原文链接](https://www.jianshu.com/p/07c5870cab0a)
