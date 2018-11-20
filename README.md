@@ -23,12 +23,11 @@
 
 ### 2.小程序版日播天气
 
-### 最终效果图
+### 日播天气-最终效果图
 
 ![最终效果图](https://upload-images.jianshu.io/upload_images/4966588-7d0990103cf014db.gif?imageMogr2/auto-orient/strip)
 
-
-### 扫码体验
+### 日播天气-扫码体验
 
 ![扫码体验](https://upload-images.jianshu.io/upload_images/4966588-4ece89c59aae8ec5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
